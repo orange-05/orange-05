@@ -7,7 +7,9 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Data+Analyst+%F0%9F%93%8A;Full+Stack+Developer+%F0%9F%9A%80;;Data+Sciencist+%E2%98%81%EF%B8%8F;AI+%26+ML+Enthusiast+%F0%9F%A4%96)](https://git.io/typing-svg)
   
 </div>
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="700">
+</div>
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikeyan-k-87050a290)
@@ -55,10 +57,6 @@
   <a href="#"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /></a>
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="700">
-</div>
-
 ## <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="30px"> Databases
 
 <p align="center">
@@ -68,10 +66,6 @@
   <a href="#"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" /></a>
 </p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="700">
-</div>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> Cloud & Deployment
 
@@ -101,25 +95,6 @@
   <a href="#"><img src="https://img.shields.io/badge/Qlik-009848?style=for-the-badge&logo=qlik&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /></a>
 </p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="700">
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30px"> AI & Machine Learning
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/NLP-FF6C37?style=for-the-badge&logo=spacy&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="700">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orange-05&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=ffffff&langs_count=8" alt="Top Languages" height="180"/>
-</div>
 
 <br/>
 
