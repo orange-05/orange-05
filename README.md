@@ -79,5 +79,5 @@
 ---
 
 <div align="center" style="margin-top:25px; color:#aaaaaa;">
-✨ Clean • Dark • Organized • Recruiter-Ready ✨
+✨ Don't minimize the GOAL. ...✨
 </div>
