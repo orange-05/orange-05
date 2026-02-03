@@ -243,6 +243,7 @@
         .devops { background: linear-gradient(135deg, #2D3748, #4A5568); }
         .git { background: linear-gradient(135deg, #F05032, #E44C30); }
         .github { background: linear-gradient(135deg, #181717, #333333); }
+        .docker { background: linear-gradient(135deg, #2496ED, #0DB7ED); }
 
         /* BI Tools */
         .qlik { background: linear-gradient(135deg, #009845, #44B34F); }
@@ -435,6 +436,7 @@
                     <div class="badge devops">🔄 DEVOPS</div>
                     <div class="badge git">📦 GIT</div>
                     <div class="badge github">🐙 GITHUB</div>
+                    <div class="badge docker">🐳 DOCKER</div>
                 </div>
             </div>
 
