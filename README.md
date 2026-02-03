@@ -1,14 +1,14 @@
-<!-- ===================== FRAME ===================== -->
-<div align="center" style="background: linear-gradient(135deg,#0f0c29,#302b63,#24243e); padding:30px; border-radius:18px; box-shadow:0 0 40px rgba(138,43,226,0.35);">
+<!-- ===================== PROFILE FRAME ===================== -->
+<div align="center" style="background:linear-gradient(135deg,#0f0c29,#302b63,#24243e); padding:32px; border-radius:18px; box-shadow:0 0 45px rgba(138,43,226,0.4);">
 
-<h1 style="color:#ffffff;">👋 Hi, I'm <span style="background:linear-gradient(90deg,#8A2BE2,#00E5FF); -webkit-background-clip:text; -webkit-text-fill-color:transparent;">Karthikeyan</span></h1>
+<h1 style="color:white;">👋 Hi, I'm <span style="background:linear-gradient(90deg,#8A2BE2,#00E5FF); -webkit-background-clip:text; -webkit-text-fill-color:transparent;">Karthikeyan</span></h1>
 
-<p style="color:#cfcfcf; font-size:16px;">
-🎓 BCA in Analytics Student<br/>
-💼 Actively seeking Internship Opportunities
+<p style="color:#d1d1d1;">
+🎓 BCA in Analytics Student <br/>
+💼 Open to Internship Opportunities
 </p>
 
-<a href="https://www.linkedin.com/in/karthikeyan-k-87050a290" target="_blank">
+<a href="https://www.linkedin.com/in/karthikeyan-k-87050a290">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -20,12 +20,12 @@
 
 ## 💻 Tech Stack
 
-<!-- ===================== CORE LANGUAGES ===================== -->
-<div style="background:linear-gradient(135deg,#141E30,#243B55); padding:20px; border-radius:16px; margin-bottom:20px; box-shadow:0 0 25px rgba(0,255,255,0.15);">
+<!-- ===================== PROGRAMMING ===================== -->
+<div style="background:linear-gradient(135deg,#141E30,#243B55); padding:22px; border-radius:16px; margin-bottom:20px;">
 <h3>🧠 Programming Languages</h3>
 
 <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
 <a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
 <a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
 <a href="https://en.cppreference.com/w/"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/></a>
@@ -35,7 +35,7 @@
 </div>
 
 <!-- ===================== FRONTEND ===================== -->
-<div style="background:linear-gradient(135deg,#1f4037,#99f2c8); padding:20px; border-radius:16px; margin-bottom:20px;">
+<div style="background:linear-gradient(135deg,#1f4037,#99f2c8); padding:22px; border-radius:16px; margin-bottom:20px;">
 <h3>🎨 Frontend & UI</h3>
 
 <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
@@ -45,7 +45,7 @@
 </div>
 
 <!-- ===================== DATABASE ===================== -->
-<div style="background:linear-gradient(135deg,#232526,#414345); padding:20px; border-radius:16px; margin-bottom:20px;">
+<div style="background:linear-gradient(135deg,#232526,#414345); padding:22px; border-radius:16px; margin-bottom:20px;">
 <h3>🗄️ Databases & Warehousing</h3>
 
 <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
@@ -56,7 +56,7 @@
 </div>
 
 <!-- ===================== CLOUD & DEVOPS ===================== -->
-<div style="background:linear-gradient(135deg,#0f2027,#203a43,#2c5364); padding:20px; border-radius:16px; margin-bottom:20px;">
+<div style="background:linear-gradient(135deg,#0f2027,#203a43,#2c5364); padding:22px; border-radius:16px; margin-bottom:20px;">
 <h3>☁️ Cloud, DevOps & Deployment</h3>
 
 <a href="https://cloud.google.com"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/></a>
@@ -68,7 +68,7 @@
 </div>
 
 <!-- ===================== DATA & AI ===================== -->
-<div style="background:linear-gradient(135deg,#41295a,#2F0743); padding:20px; border-radius:16px;">
+<div style="background:linear-gradient(135deg,#41295a,#2F0743); padding:22px; border-radius:16px;">
 <h3>📊 Data, Analytics & AI</h3>
 
 <a href="https://streamlit.io"><img src="https://img.shields.io/badge/Streamlit-FF4E30?style=for-the-badge&logo=streamlit&logoColor=white"/></a>
@@ -78,6 +78,6 @@
 
 ---
 
-<div align="center" style="margin-top:25px; color:#aaaaaa;">
-✨ Don't minimize the GOAL. ...✨
+<div align="center" style="margin-top:28px; color:#b5b5b5;">
+✨ Dark • Clean • Structured • Recruiter-Ready ✨
 </div>
