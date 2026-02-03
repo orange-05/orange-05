@@ -1,93 +1,87 @@
 <div align="center">
 
-# 👨‍💻 Karthikeyan
-### Full Stack Developer & Data Analytics Enthusiast
+# 🌌 KARTHIKEYAN
+### 🚀 Full Stack Developer | 📊 Data Analytics Student
 
-<img src="https://img.shields.io/badge/BCA%20Analytics-Student-greyorange?style=for-the-badge" /> <img src="https://img.shields.io/badge/Seeking-Internships-orangegrey?style=for-the-badge" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Building%20the%20Future&fontSize=50&animation=fadeIn&fontAlignY=38&theme=dark" />
+</p>
+
+<img src="https://img.shields.io/badge/BCA%20Analytics-Student-blueviolet?style=for-the-badge&logo=googlescholar&logoColor=white" /> <img src="https://img.shields.io/badge/Seeking-Internships-00FF00?style=for-the-badge&logo=rocket&logoColor=white" />
 
 ---
 
-## ✨ About Me
+<a href="https://www.linkedin.com/in/karthikeyan-k-87050a290" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/orange-05" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:karthikeyankkarthik7@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
+</div>
+
+---
+
+## 🔮 THE BLUEPRINT
 <table width="100%">
-  <tr>
-    <td width="33%" align="center">
-      <h3>👋 Hello</h3>
-      <p>Passionate developer creating innovative solutions and beautiful interfaces.</p>
+  <tr border="none">
+    <td width="50%" style="border: none;">
+      <h3 align="left">✨ About Me</h3>
+      <ul>
+        <li><b>Current:</b> Final-semester BCA Analytics student</li>
+        <li><b>Focus:</b> Data Science, ML & Future Tech (LLMs)</li>
+        <li><b>Passsion:</b> Creative UI/UX & High-Performance Code</li>
+      </ul>
     </td>
-    <td width="33%" align="center">
-      <h3>📚 Analytics</h3>
-      <p>Currently pursuing BCA with a specialization in Data Science.</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>🚀 Opportunities</h3>
-      <p>Actively seeking internships to contribute to exciting projects.</p>
+    <td width="50%" style="border: none;">
+      <h3 align="left">🎯 Recent Milestone</h3>
+      <p align="left">
+        Successfully submitted a research paper and web app on <b>Agentic Financial Forensics</b>.
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 💻 Tech Stack
+## 💻 TECH ECOSYSTEM
 
-### 🚀 Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+### 🚀 LANGUAGES & LOGIC
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,js,c,cpp,java,php,r&perline=7" />
+</p>
 
-### 🎨 Frontend Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+### 🎨 FRONTEND & UI (GLASSMORPHISM)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,figma&perline=5" />
+</p>
 
-### ⚡ Backend & Frameworks
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+### ⚡ BACKEND & CLOUD
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,mysql,postgres,mongodb,gcp,azure,vercel,docker&perline=8" />
+</p>
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
-
-### ☁️ Cloud & Hosting
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-### 🔧 DevOps & Version Control
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-### 📊 Analytics & AI
-![Qlik](https://img.shields.io/badge/Qlik-009845?style=for-the-badge&logo=qlik&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Celonis](https://img.shields.io/badge/Celonis-1E90FF?style=for-the-badge&logo=celonis&logoColor=white)
-![Big Data](https://img.shields.io/badge/Big_Data_Analytics-FF6F00?style=for-the-badge&logo=apache&logoColor=white)
-
+### 🤖 DATA & AI SPECIALIZATION
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,git,github" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qlik-009845?style=for-the-badge&logo=qlik&logoColor=white" />
+</p>
 
 ---
-<a href="https://www.linkedin.com/in/karthikeyan-k-87050a290">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/orange-05">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:karthikeyankkarthik7@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 
-</div>
+## 📈 PERFORMANCE METRICS
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=orange-05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orange-05&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
+
 <div align="center">
-  <p><i>"Code is poetry in motion"</i></p>
-  <img src="https://komarev.com/ghpvc/?username=orange-05&color=blueviolet" alt="Profile Views" />
+  <h3>✨ "Code is poetry in motion" ✨</h3>
+  <img src="https://komarev.com/ghpvc/?username=orange-05&color=7b3ff2&style=flat-square&label=VISITORS" alt="Visitor Count" />
 </div>
