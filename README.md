@@ -66,8 +66,13 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📊 Analytics & AI
-![Qlik](https://img.shields.io/badge/qlik-%23009845.svg?style=for-the-badge&logo=qlik&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=google-gemini&logoColor=white)
+![Qlik](https://img.shields.io/badge/Qlik-009845?style=for-the-badge&logo=qlik&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Celonis](https://img.shields.io/badge/Celonis-1E90FF?style=for-the-badge&logo=celonis&logoColor=white)
+![Big Data](https://img.shields.io/badge/Big_Data_Analytics-FF6F00?style=for-the-badge&logo=apache&logoColor=white)
+
 
 ---
 <a href="https://www.linkedin.com/in/karthikeyan-k-87050a290">
