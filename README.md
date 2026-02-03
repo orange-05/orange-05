@@ -1,32 +1,23 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Karthikeyan;BCA+Analytics+Student;Tech+Enthusiast;Seeking+Internships" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=orange-05&label=Profile%20views&color=0e75b6&style=flat" alt="orange-05" />
-</p>
+# 👨‍💻 Karthikeyan
 
 <div align="center">
-  
-### 👨‍💻 About Me
 
-🎓 Currently pursuing **BCA in Analytics**  
-💼 Actively seeking **internship opportunities**  
-🚀 Passionate about **Data Analytics, Cloud Computing & AI**  
-💡 Love building projects that solve real-world problems
+### 🎓 BCA Analytics Student | 💼 Seeking Internships
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikeyan-k-87050a290)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orange-05)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikeyankkarthik7@gmail.com)
 
 </div>
 
 ---
 
+## 🌟 **[View My Interactive Portfolio →](https://orange-05.github.io/gitportfolio)**
+
+> Click above to see my fully animated tech stack showcase!
+
 <div align="center">
-
-### 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikeyan-k-87050a290)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orange-05)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=orange-05&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 ---
@@ -53,7 +44,7 @@
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
@@ -72,55 +63,19 @@
 ![Qlik](https://img.shields.io/badge/Qlik-009845?style=for-the-badge&logo=qlik&logoColor=white)
 
 ### 🤖 AI & Machine Learning
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-FF6C37?style=for-the-badge&logo=natural-language-processing&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF6C37?style=for-the-badge&logo=ai&logoColor=white)
 
 ### ✨ Design Tools
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=orange-05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orange-05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=orange-05&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
+### 💡 *"Code is poetry in motion"* 💡
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=orange-05&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F2FE&line=4FACFE&point=FF00FF" alt="Contribution Graph" />
-</div>
+⭐ Made with ❤️ by Karthikeyan ⭐
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=orange-05&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-<div align="center">
-  
-### 💡 Quote of the Day
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=orange-05&color=blueviolet&style=for-the-badge)
 
 </div>
-
----
-
-<div align="center">
-  
-**"Code is poetry in motion"** 💻✨
-
-Made with ❤️ by Karthikeyan
-
-</div>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
