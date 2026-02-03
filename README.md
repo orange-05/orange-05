@@ -3,7 +3,7 @@
 # 👨‍💻 Karthikeyan
 ### Full Stack Developer & Data Analytics Enthusiast
 
-<img src="https://img.shields.io/badge/BCA%20Analytics-Student-greywhite?style=for-the-badge" /> <img src="https://img.shields.io/badge/Seeking-Internships-whitegrey?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BCA%20Analytics-Student-greyorange?style=for-the-badge" /> <img src="https://img.shields.io/badge/Seeking-Internships-orangegrey?style=for-the-badge" />
 
 ---
 
