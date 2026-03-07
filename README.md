@@ -73,8 +73,8 @@ console.log("Data + Code = Innovation 💡");
 ```yaml
 Primary Languages:
   - Python 🐍        ████████████░ 90%
-  - JavaScript ⚡    ████████████░ 85%
-  - Java ☕         ██████████░░░ 80%
+  - JavaScript ⚡    ████████████░ 60%
+  - Java ☕         ██████████░░░ 65%
 
 Learning Stack:
   - C/C++ 🔷        ████████░░░░░ 75%
@@ -85,7 +85,7 @@ Learning Stack:
 ### 🎨 Frontend Technologies
 ```yaml
 Core:
-  - HTML5 / CSS3 🌐  ████████████░ 95%
+  - HTML5 / CSS3 🌐  ████████████░ 80%
   - React ⚛️         ███████████░░ 85%
   - Streamlit 🎈     ██████████░░░ 80%
 ```
@@ -96,12 +96,12 @@ Core:
 ### ⚡ Backend & Cloud
 ```yaml
 Backend:
-  - .NET Framework 🔷  ████████░░░░░ 75%
+  - .NET Framework 🔷  ████████░░░░░ 80%
   - RESTful APIs 🔌    ██████████░░░ 80%
 
 Cloud Platforms:
   - Google Cloud ☁️    ███████░░░░░░ 70%
-  - Azure ☁️          ██████░░░░░░░ 65%
+  - Azure ☁️          ██████░░░░░░░ 70%
   - Vercel ▲          ████████████░ 90%
 ```
 
