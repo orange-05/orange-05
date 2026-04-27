@@ -49,7 +49,7 @@ console.log("Data + Code = Innovation 💡");
 ```
 
 <br/>
-
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="35px" style="margin-bottom: -5px;"> Tech Arsenal
 <div align="center">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" />
