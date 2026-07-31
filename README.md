@@ -5,50 +5,50 @@
 ![Last Commit](https://img.shields.io/github/last-commit/orange-05/orange-05?style=for-the-badge)
 ![Repo Size](https://img.shields.io/github/repo-size/orange-05/orange-05?style=for-the-badge)
 
-> **GitHub Profile Configuration Repository** — The special repository that powers your GitHub profile README at github.com/orange-05.
+> **GitHub Profile Configuration Repository** -- The special repository that powers your GitHub profile README at github.com/orange-05.
 
 ---
 
-## 🌟 Overview
+## Overview
 
-**orange-05** is a **special repository** — GitHub automatically renders its `README.md` (or `index.html`) on your profile page at **https://github.com/orange-05**.
+**orange-05** is a **special repository** -- GitHub automatically renders its `README.md` (or `index.html`) on your profile page at **https://github.com/orange-05**.
 
 This repo contains the configuration and content for your public GitHub profile.
 
 ---
 
-## ✨ What's Inside
+## What's Inside
 
 | File | Purpose |
 |------|---------|
-| `README.md` | **Primary profile content** — Rendered on your profile page |
+| `README.md` | **Primary profile content** -- Rendered on your profile page |
 | `index.html` | Alternative profile page (if used instead of README) |
 
 > **Note:** GitHub prioritizes `README.md` over `index.html` for profile rendering. Keep your main content in `README.md`.
 
 ---
 
-## 🎨 Profile Content Guide
+## Profile Content Guide
 
 Your profile README should include:
 
 ### Essential Sections
-- **Header** — Name, title, tagline, location
-- **About** — Brief bio, current focus, learning goals
-- **Tech Stack** — Languages, frameworks, tools (badges welcome)
-- **Featured Projects** — 3-5 pinned repos with descriptions
-- **GitHub Stats** — Contribution graph, stats cards (optional)
-- **Contact** — Links to LinkedIn, Twitter, email, portfolio
+- **Header** -- Name, title, tagline, location
+- **About** -- Brief bio, current focus, learning goals
+- **Tech Stack** -- Languages, frameworks, tools (badges welcome)
+- **Featured Projects** -- 3-5 pinned repos with descriptions
+- **GitHub Stats** -- Contribution graph, stats cards (optional)
+- **Contact** -- Links to LinkedIn, Twitter, email, portfolio
 
 ### Example Structure
 ```markdown
-# 👋 Hi, I'm Karthikeyan K
+# Hi, I'm Karthikeyan K
 
-**BCA Analytics** | Passionate Developer ✨😉 | Bengaluru
+**BCA Analytics** | Passionate Developer | Bengaluru
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -62,7 +62,7 @@ Your profile README should include:
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 | Project | Description | Tech |
 |---------|-------------|------|
 | [osha.ai](https://github.com/orange-05/osha.ai) | Full-stack safety compliance platform | Next.js, Supabase, Docker |
@@ -71,12 +71,12 @@ Your profile README should include:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=orange-05&show_icons=true&theme=tokyonight)
 
 ---
 
-## 📫 Connect
+## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
@@ -84,7 +84,7 @@ Your profile README should include:
 
 ---
 
-## 🛠 Customization Tips
+## Customization Tips
 
 ### Dynamic Content (Auto-updating)
 - **GitHub Stats**: `github-readme-stats.vercel.app`
@@ -97,15 +97,15 @@ Your profile README should include:
 - Keep consistent style: `?style=flat` or `?style=for-the-badge`
 
 ### Animations
-- GitHub sanitizes HTML — limited CSS animations work
+- GitHub sanitizes HTML -- limited CSS animations work
 - SVG animations (like contribution snake) work well
 - Avoid `<script>`, `<iframe>`, external CSS
 
 ---
 
-## 🚀 Deployment
+## Deployment
 
-**Automatic** — Just push to `main` branch:
+**Automatic** -- Just push to `main` branch:
 ```bash
 git add README.md
 git commit -m "profile: update bio and projects"
@@ -116,20 +116,20 @@ GitHub detects changes and updates your profile within minutes.
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 orange-05/
-├── README.md       # ← YOUR PROFILE CONTENT (edit this)
-├── index.html      # Optional alternative (lower priority)
-└── LICENSE         # Optional (MIT recommended)
++-- README.md       # YOUR PROFILE CONTENT (edit this)
++-- index.html      # Optional alternative (lower priority)
++-- LICENSE         # Optional (MIT recommended)
 ```
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
-This is a **personal profile repository** — not open for contributions.
+This is a **personal profile repository** -- not open for contributions.
 
 However, if you spot a typo or have a suggestion:
 1. Open an issue (I'll see it)
@@ -137,13 +137,13 @@ However, if you spot a typo or have a suggestion:
 
 ---
 
-## 📄 License
+## License
 
-**MIT License** — Feel free to use as inspiration for your own profile.
+**MIT License** -- Feel free to use as inspiration for your own profile.
 
 ---
 
-## 👤 Author
+## Author
 
 **Karthikeyan K** (BCA Analytics)
 - GitHub: [@orange-05](https://github.com/orange-05)
@@ -152,4 +152,4 @@ However, if you spot a typo or have a suggestion:
 
 ---
 
-*Your profile is your digital handshake — make it count.* — Last updated July 2026
+*Your profile is your digital handshake -- make it count.* -- Last updated July 2026
