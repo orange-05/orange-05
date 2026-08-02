@@ -7,7 +7,7 @@
 [![Remote Internships](https://img.shields.io/badge/Open_to-Remote_Internships-2ea44f?style=flat-square)](mailto:karthikeyankkarthik7@gmail.com)
 [![Contract Projects](https://img.shields.io/badge/Open_to-Contract_Projects-2ea44f?style=flat-square)](mailto:karthikeyankkarthik7@gmail.com)
 [![Part-time](https://img.shields.io/badge/Open_to-Part--time_Roles-2ea44f?style=flat-square)](mailto:karthikeyankkarthik7@gmail.com)
-[![Available](https://img.shields.io/badge/Availability-1-2days-blue?style=flat-square)]()
+[![Available](https://img.shields.io/badge/Availability-1_2-days-blue?style=flat-square)]()
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikeyan-k-87050a290)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:karthikeyankkarthik7@gmail.com)
