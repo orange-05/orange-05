@@ -2,8 +2,6 @@
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Special Repo](https://img.shields.io/badge/Special_Repo-Profile_Config-purple?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/orange-05/orange-05?style=for-the-badge)
-![Repo Size](https://img.shields.io/github/repo-size/orange-05/orange-05?style=for-the-badge)
 
 > **GitHub Profile Configuration Repository** -- The special repository that powers your GitHub profile README at github.com/orange-05.
 
