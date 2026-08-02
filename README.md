@@ -1,153 +1,315 @@
-# orange-05 (GitHub Profile)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=KARTHIKEYAN&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
+</div>
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Special Repo](https://img.shields.io/badge/Special_Repo-Profile_Config-purple?style=for-the-badge)
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=100&lines=Welcome+to+My+Digital+Universe+%F0%9F%8C%8C;Data+Analytics+Student+%F0%9F%93%8A;Full+Stack+Developer+%F0%9F%9A%80;Cloud+%26+AI+Enthusiast+%E2%98%81%EF%B8%8F;Building+the+Future+with+Data+%F0%9F%92%BB" alt="Typing SVG" />
+</h1>
 
-> **GitHub Profile Configuration Repository** -- The special repository that powers your GitHub profile README at github.com/orange-05.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+</div>
 
----
+<br/>
 
-## Overview
+<p align="center">
+  <a href="https://www.linkedin.com/in/karthikeyan-k-87050a290">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&animation=pulse" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/orange-05">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub">
+  </a>
+  <a href="mailto:karthikeyankkarthik7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=orange-05&style=for-the-badge&color=blueviolet" alt="Profile Views">
+</p>
 
-**orange-05** is a **special repository** -- GitHub automatically renders its `README.md` (or `index.html`) on your profile page at **https://github.com/orange-05**.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+</div>
 
-This repo contains the configuration and content for your public GitHub profile.
+<br/>
 
----
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35px" style="margin-bottom: -5px;"> About Me
 
-## What's Inside
+```javascript
+const karthikeyan = {
+    role: "BCA Analytics Student 🎓",
+    status: "Seeking Internships 🎯",
+    location: "Bengaluru, India 📍",
+    education: "BCA in Analytics",
+    interests: ["Full Stack Development", "Data Science", "Cloud Computing", "AI/ML"],
+    currentFocus: "Building scalable web applications and data solutions 🚀",
+    funFact: "I turn coffee into code ☕💻"
+};
 
-| File | Purpose |
-|------|---------|
-| `README.md` | **Primary profile content** -- Rendered on your profile page |
-| `index.html` | Alternative profile page (if used instead of README) |
-
-> **Note:** GitHub prioritizes `README.md` over `index.html` for profile rendering. Keep your main content in `README.md`.
-
----
-
-## Profile Content Guide
-
-Your profile README should include:
-
-### Essential Sections
-- **Header** -- Name, title, tagline, location
-- **About** -- Brief bio, current focus, learning goals
-- **Tech Stack** -- Languages, frameworks, tools (badges welcome)
-- **Featured Projects** -- 3-5 pinned repos with descriptions
-- **GitHub Stats** -- Contribution graph, stats cards (optional)
-- **Contact** -- Links to LinkedIn, Twitter, email, portfolio
-
-### Example Structure
-```markdown
-# Hi, I'm Karthikeyan K
-
-**BCA Analytics** | Passionate Developer | Bengaluru
-
----
-
-## Tech Stack
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
----
-
-## Featured Projects
-| Project | Description | Tech |
-|---------|-------------|------|
-| [osha.ai](https://github.com/orange-05/osha.ai) | Full-stack safety compliance platform | Next.js, Supabase, Docker |
-| [Ai-saas](https://github.com/orange-05/Ai-saas) | AI-powered SaaS starter | Next.js, TypeScript, AI SDK |
-| [My_Portfolio26](https://github.com/orange-05/My_Portfolio26) | Personal portfolio | HTML, CSS, JS |
-
----
-
-## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=orange-05&show_icons=true&theme=tokyonight)
-
----
-
-## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+// Life Philosophy
+console.log("Data + Code = Innovation 💡");
 ```
 
----
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="35px" style="margin-bottom: -5px;"> Tech Arsenal
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="55" />
+</div>
 
-## Customization Tips
+<br/>
 
-### Dynamic Content (Auto-updating)
-- **GitHub Stats**: `github-readme-stats.vercel.app`
-- **Contribution Snake**: `github-contributions-snake`
-- **WakaTime**: `wakatime-badge`
-- **Latest Blog Posts**: `blog-post-workflow`
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-### Badges & Shields
-- Use [shields.io](https://shields.io) for custom badges
-- Keep consistent style: `?style=flat` or `?style=for-the-badge`
+### 🚀 Languages & Frameworks
+```yaml
+Primary Languages:
+  - Python 🐍        ████████████░ 90%
+  - JavaScript ⚡    ████████████░ 60%
+  - Java ☕         ██████████░░░ 65%
 
-### Animations
-- GitHub sanitizes HTML -- limited CSS animations work
-- SVG animations (like contribution snake) work well
-- Avoid `<script>`, `<iframe>`, external CSS
-
----
-
-## Deployment
-
-**Automatic** -- Just push to `main` branch:
-```bash
-git add README.md
-git commit -m "profile: update bio and projects"
-git push origin main
+Learning Stack:
+  - C/C++ 🔷        ████████░░░░░ 75%
+  - PHP 🐘          ██████░░░░░░░ 60%
+  - R 📊            ██████░░░░░░░ 65%
 ```
 
-GitHub detects changes and updates your profile within minutes.
-
----
-
-## Repository Structure
-
-```text
-orange-05/
-+-- README.md       # YOUR PROFILE CONTENT (edit this)
-+-- index.html      # Optional alternative (lower priority)
-+-- LICENSE         # Optional (MIT recommended)
+### 🎨 Frontend Technologies
+```yaml
+Core:
+  - HTML5 / CSS3 🌐  ████████████░ 80%
+  - React ⚛️         ███████████░░ 85%
+  - Streamlit 🎈     ██████████░░░ 80%
 ```
 
----
+</td>
+<td width="50%" valign="top">
 
-## Contributing
+### ⚡ Backend & Cloud
+```yaml
+Backend:
+  - .NET Framework 🔷  ████████░░░░░ 80%
+  - RESTful APIs 🔌    ██████████░░░ 80%
 
-This is a **personal profile repository** -- not open for contributions.
+Cloud Platforms:
+  - Google Cloud ☁️    ███████░░░░░░ 70%
+  - Azure ☁️          ██████░░░░░░░ 70%
+  - Vercel ▲          ████████████░ 90%
+```
 
-However, if you spot a typo or have a suggestion:
-1. Open an issue (I'll see it)
-2. Or fork, fix, and show me the diff
+### 🗄️ Databases
+```yaml
+SQL:
+  - MySQL 🐬          ████████████░ 90%
+  - PostgreSQL 🐘     ███████████░░ 85%
+  - Oracle 🔴         ████████░░░░░ 70%
+  - Snowflake ❄️      ██████░░░░░░░ 60%
 
----
+NoSQL:
+  - MongoDB 🍃        ████████░░░░░ 75%
+```
 
-## License
+</td>
+</tr>
+</table>
 
-**MIT License** -- Feel free to use as inspiration for your own profile.
+<br/>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+</div>
 
-## Author
+<br/>
 
-**Karthikeyan K** (BCA Analytics)
-- GitHub: [@orange-05](https://github.com/orange-05)
-- Profile: https://github.com/orange-05
-- Location: Bengaluru, India
+## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="35px"> Technology Badges
 
----
+<details open>
+<summary><b>🔷 Programming Languages</b></summary>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+</p>
+</details>
 
-*Your profile is your digital handshake -- make it count.* -- Last updated July 2026
+<details open>
+<summary><b>🎨 Frontend & Frameworks</b></summary>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>📊 Data Analytics & AI</b></summary>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Qlik-009848?style=for-the-badge&logo=qlik&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/NLP-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+</p>
+</details>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="500">
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+<br/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35px"> Current Focus & Goals
+
+```python
+class KarthikeyanGoals2025:
+    def __init__(self):
+        self.currently_learning = {
+            "web_development": ["Advanced React", "Next.js", "TypeScript"],
+            "data_science": ["Machine Learning", "Deep Learning", "Data Visualization"],
+            "cloud_computing": ["AWS Solutions Architect", "Azure DevOps", "Kubernetes"],
+            "system_design": ["Microservices", "Distributed Systems", "API Design"]
+        }
+        
+        self.building = {
+            "projects": [
+                "📊 Real-time Data Analytics Dashboard",
+                "🤖 AI-Powered Chat Application",
+                "☁️ Cloud-Native Microservices Architecture",
+                "📈 Stock Market Prediction Model"
+            ]
+        }
+        
+        self.seeking = {
+            "role": "Software Development Intern / Data Analyst Intern",
+            "type": "Full-time Internship",
+            "interests": ["Full Stack", "Data Science", "Cloud Engineering", "AI/ML"],
+            "availability": "Immediate"
+        }
+    
+    def collaborate(self):
+        return "🤝 Always open to exciting projects and collaborations! Let's build something amazing together! 🚀"
+    
+    def contact(self):
+        return {
+            "LinkedIn": "linkedin.com/in/karthikeyan-k-87050a290",
+            "Email": "karthikeyankkarthik7@gmail.com",
+            "GitHub": "github.com/orange-05"
+        }
+
+# Initialize
+goals = KarthikeyanGoals2025()
+print(goals.collaborate())
+```
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
+</div>
+
+<br/>
+
+## 💭 Quote of the Day
+
+<div align="center">
+  
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  
+</div>
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+  
+| Platform | Link |
+|----------|------|
+| 💼 LinkedIn | [Karthikeyan K](https://www.linkedin.com/in/karthikeyan-k-87050a290) |
+| 🐙 GitHub | [@orange-05](https://github.com/orange-05) |
+| 📧 Email | karthikeyankkarthik7@gmail.com |
+| 🌐 Portfolio | [View My Work](https://orange-05.github.io) |
+
+</div>
+
+<br/>
+
+<div align="center">
+  
+### 💡 "The only way to do great work is to love what you do." - Steve Jobs
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+</div>
+
+<div align="center">
+  
+  **⭐ Crafted with 💖 by Karthikeyan**
+  
+  ![Visitor Count](https://profile-counter.glitch.me/orange-05/count.svg)
+  
+</div>
+ 
