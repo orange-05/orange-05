@@ -2,7 +2,8 @@
 
 Building toward ML infrastructure & agentic AI systems — currently a Data Analytics student, working hands-on across DevOps, ML deployment, and multi-agent system design.
 
-[LinkedIn](https://www.linkedin.com/in/karthikeyan-k-87050a290) · [Email](mailto:karthikeyankkarthik7@gmail.com) · Bengaluru, India
+[LinkedIn](https://www.linkedin.com/in/karthikeyan-k-87050a290) · [Email](mailto:karthikeyankkarthik7@gmail.com) · 
+Bengaluru, India
 
 ---
 
