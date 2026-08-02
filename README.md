@@ -46,4 +46,4 @@ AWS Solutions Architect Associate (SAA-C03) · Kubernetes (CKA) · LangChain / a
 
 ---
 
-<h4>Open to internships and collaborations in ML infrastructure, applied AI, and data engineering.</h4>
+  <h4>Open to REMOTE INTERNSHIPS, PART-TIME JOB and collaborations in ML infrastructure, data analytics , data science , applied AI, and data engineering.</h4>
