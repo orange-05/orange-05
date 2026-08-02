@@ -1,8 +1,9 @@
 # Karthikeyan K
 
-Building toward ML infrastructure & agentic AI systems — currently a Data Analytics student, working hands-on across DevOps, ML deployment, and multi-agent system design.
+Building toward ML infrastructure & agentic AI systems — Graduate Data Analytics student, working hands-on across DevOps, ML deployment, and multi-agent system design.
 
-[LinkedIn](https://www.linkedin.com/in/karthikeyan-k-87050a290) · [Email](mailto:karthikeyankkarthik7@gmail.com) · 
+[LinkedIn](https://www.linkedin.com/in/karthikeyan-k-87050a290) · [Email](mailto:karthikeyankkarthik7@gmail.com) 
+· 
 Bengaluru, India
 
 ---
@@ -45,4 +46,4 @@ AWS Solutions Architect Associate (SAA-C03) · Kubernetes (CKA) · LangChain / a
 
 ---
 
-<sub>Open to internships and collaborations in ML infrastructure, applied AI, and data engineering.</sub>
+<h4>Open to internships and collaborations in ML infrastructure, applied AI, and data engineering.</h4>
