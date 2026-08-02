@@ -71,28 +71,41 @@ Coordinated AI agents structured like an org — each agent builds a product com
 </table>
 
 <div align="center"><sub><a href="https://github.com/orange-05">→ full project list</a></sub></div>
-
 <br>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=orange-05&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orange-05&layout=compact&theme=dark&hide_border=true" height="165" />
-
-</div>
-
-<br>
-
----
-
 <div align="center">
 
 **Currently learning:** AWS SAA-C03 · Kubernetes (CKA) · LangChain / Agent Orchestration · System Design
 
 <br>
 
-📬 **Reach out for remote internships, contract work, or part-time collaboration** — [karthikeyankkarthik7@gmail.com](mailto:karthikeyankkarthik7@gmail.com)
+<div align="center">
 
+## 📬 Let's Connect
+
+**Open to Remote Internships • Contract Work • Part-Time Collaboration**
+
+<a href="mailto:karthikeyankkarthik7@gmail.com">
+  📧 karthikeyankkarthik7@gmail.com
+</a>
+<br>
+</div>
+</br>
+### 💡 "The only way to do great work is to love what you do." - Steve Jobs
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+</div>
+
+<div align="center">
+
+  ## 💭 Quote of the Day
+
+<div align="center">
+  
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  
 </div>
